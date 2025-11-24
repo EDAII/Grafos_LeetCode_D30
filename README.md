@@ -14,11 +14,11 @@ Questões resolvidas do LeetCode sobre Grafos da disciplina de Estrutura de Dado
 | -- | -- | -- |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)| Média | Cláudio|
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| Difícil | Cláudio|
-| [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| Difícil | Arthur|
-| [450. Delete Node in a BST ](https://leetcode.com/problems/delete-node-in-a-bst/description/)| Média | Arthur|
-
+| [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | Difícil | Arthur |
+| [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | Difícil | Arthur |
 
 ## Guia de instalação
+
 Basta executar os scripts python na área específica de cada exercício que estão na pasta de questões de cada aluno.
 
 ## Capturas de tela
@@ -29,21 +29,19 @@ Basta executar os scripts python na área específica de cada exercício que est
 
 ![114. Flatten Binary Tree to Linked List](/QuestoesClaudio/imgs/tree-to-linked-list.png)
 
-
 ### [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 ![maximum path sum](/QuestoesClaudio/imgs/maximum-sum.png)
 
-
 #### Arthur
 
-### [297. Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+### [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/)
 
-![Questão 1](/QuestoesArthur/assets/image-11.png)
+![Questão 1](QuestoesArthur/assets/image-11.png)
 
-### [450. Delete Node in a BST](https://leetcode.com/problems/maximum-gap/)
+### [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)
 
-![Questão 2](/QuestoesArthur/assets/image111.png)
+![Questão 2](QuestoesArthur/assets/image111.png)
 
 ## Gravação
 
