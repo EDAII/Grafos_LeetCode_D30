@@ -6,7 +6,7 @@
 
 ## Descrição do projeto
 
-Questões resolvidas do LeetCode sobre Árvores Balanceadas da disciplina de Estrutura de Dados 2.
+Questões resolvidas do LeetCode sobre Grafos da disciplina de Estrutura de Dados 2.
 
 ### Questões
 
@@ -47,12 +47,12 @@ Basta executar os scripts python na área específica de cada exercício que est
 
 ## Gravação
 
-[Link do vídeo aqui - Cláudio Henrique](https://www.youtube.com/watch?v=PlP_fONOYHM)
+[Link do vídeo - Cláudio Henrique]()
 
-[Link do vídeo aqui - Arthur Sousa]()
+[Link do vídeo - Arthur Sousa]()
 
 ## Conclusões
 
-Cláudio: Usei principalmente recursão DFS, onde no problema da "Soma Máxima", ela rastreou o ganho máximo global versus o ganho contínuo, enquanto no de "Achatar Árvore", a recursão pós-ordem "costurou" as sub-árvores já achatadas(recursão também).
+Cláudio:
 
 Arthur:
