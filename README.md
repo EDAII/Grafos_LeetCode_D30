@@ -1,36 +1,58 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
-
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
 ## Alunos  
 | Matrícula | Nome |  
 |-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
+| 22/1007958 | Cláudio Henrique dos Santos Carvalho |  
+| 22/1022462 | Arthur da Silveira Sousa |
+
 ## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
+
+Questões resolvidas do LeetCode sobre Árvores Balanceadas da disciplina de Estrutura de Dados 2.
+
+### Questões
+
+|Questão | Dificuldade | Autor|
+| -- | -- | -- |
+| [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)| Média | Cláudio|
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| Difícil | Cláudio|
+| [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| Difícil | Arthur|
+| [450. Delete Node in a BST ](https://leetcode.com/problems/delete-node-in-a-bst/description/)| Média | Arthur|
+
+
 ## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
-### Dependências do projeto
-### Como executar o projeto
+Basta executar os scripts python na área específica de cada exercício que estão na pasta de questões de cada aluno.
+
 ## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
+
+#### Cláudio
+
+### [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
+
+![114. Flatten Binary Tree to Linked List](/QuestoesClaudio/imgs/tree-to-linked-list.png)
+
+
+### [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+![maximum path sum](/QuestoesClaudio/imgs/maximum-sum.png)
+
+
+#### Arthur
+
+### [297. Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+
+![Questão 1](/QuestoesArthur/assets/image-11.png)
+
+### [450. Delete Node in a BST](https://leetcode.com/problems/maximum-gap/)
+
+![Questão 2](/QuestoesArthur/assets/image111.png)
+
+## Gravação
+
+[Link do vídeo aqui - Cláudio Henrique](https://www.youtube.com/watch?v=PlP_fONOYHM)
+
+[Link do vídeo aqui - Arthur Sousa]()
+
 ## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
-## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+
+Cláudio: Usei principalmente recursão DFS, onde no problema da "Soma Máxima", ela rastreou o ganho máximo global versus o ganho contínuo, enquanto no de "Achatar Árvore", a recursão pós-ordem "costurou" as sub-árvores já achatadas(recursão também).
+
+Arthur:
