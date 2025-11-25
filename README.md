@@ -47,10 +47,10 @@ Basta executar os scripts python na área específica de cada exercício que est
 
 [Link do vídeo - Cláudio Henrique]()
 
-[Link do vídeo - Arthur Sousa]()
+[Link do vídeo - Arthur Sousa](https://youtu.be/ON0bLDsoC4c)
 
 ## Conclusões
 
 Cláudio:
 
-Arthur:
+Arthur: Usei BFS em espaço de estados, não só em nós: o estado é (nó atual), ideia de múltiplas fontes na BFS. No outro exercício usei conceito de árvore enraizada dirigida a estrutura Union-Find com union e find para detectar ciclos;
