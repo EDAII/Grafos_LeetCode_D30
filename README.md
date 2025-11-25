@@ -12,8 +12,9 @@ Questões resolvidas do LeetCode sobre Grafos da disciplina de Estrutura de Dado
 
 |Questão | Dificuldade | Autor|
 | -- | -- | -- |
-| [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)| Média | Cláudio|
-| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| Difícil | Cláudio|
+| [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)| Difícil | Cláudio|
+| [765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/)| Difícil | Cláudio |
+| [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | Média | Cláudio |
 | [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | Difícil | Arthur |
 | [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | Difícil | Arthur |
 
@@ -25,13 +26,17 @@ Basta executar os scripts python na área específica de cada exercício que est
 
 #### Cláudio
 
-### [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
+### [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
 
-![114. Flatten Binary Tree to Linked List](/QuestoesClaudio/imgs/tree-to-linked-list.png)
+![332. Reconstruct Itinerary](/QuestoesClaudio/imgs/img-reconstruct-itinerary.png)
 
-### [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+### [765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/)
 
-![maximum path sum](/QuestoesClaudio/imgs/maximum-sum.png)
+![765. Couples Holding Hands](/QuestoesClaudio/imgs/img-couples-hands.png)
+
+[547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
+
+![547. Number of Provinces](/QuestoesClaudio/imgs/img-number-provinces.png)
 
 #### Arthur
 
@@ -51,6 +56,6 @@ Basta executar os scripts python na área específica de cada exercício que est
 
 ## Conclusões
 
-Cláudio:
+Cláudio: Nestes exercícios, explorei a conectividade e travessia de grafos, aplicando DFS para a reconstrução de Caminhos e contagem de nós, e Union-Find para o agrupamento de ciclos disjuntos.
 
 Arthur: Usei BFS em espaço de estados, não só em nós: o estado é (nó atual), ideia de múltiplas fontes na BFS. No outro exercício usei conceito de árvore enraizada dirigida a estrutura Union-Find com union e find para detectar ciclos;
