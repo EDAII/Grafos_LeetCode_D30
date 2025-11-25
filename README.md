@@ -50,7 +50,7 @@ Basta executar os scripts python na área específica de cada exercício que est
 
 ## Gravação
 
-[Link do vídeo - Cláudio Henrique]()
+[Link do vídeo - Cláudio Henrique](https://www.youtube.com/watch?v=a6U-HhqBZ64)
 
 [Link do vídeo - Arthur Sousa](https://youtu.be/ON0bLDsoC4c)
 
